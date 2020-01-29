@@ -1,0 +1,2 @@
+project-name: test-custom-stack
+stack: docker-registry-default.cp4a-fi-05-419593-f0093114134cf555e1a213f3756140db-0001.us-east.containers.appdomain.cloud/kabanero-noauth/my-nodejs-express:0.4
